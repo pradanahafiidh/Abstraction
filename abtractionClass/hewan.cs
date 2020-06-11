@@ -9,4 +9,4 @@ namespace Abtraction.abtractionClass
     {
         public abstract void jenisMakanan();
     }
-} 
+}
