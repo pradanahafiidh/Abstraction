@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Abtraction.abtractionClass
 {
-  public class karnivora : hewan
+  public class karnivora : hewan 
     {
         public override void jenisMakanan()
         {
